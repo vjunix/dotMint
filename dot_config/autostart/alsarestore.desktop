@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/vijay/.config/autostart/files/alsa_autorestore.sh
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[en_IN]=alsarestore
+Comment[en_IN]=No description
+X-GNOME-Autostart-Delay=0
