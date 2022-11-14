@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Word
+Exec=/home/vijay/.config/wine-custom/word.sh
+Comment=
+Terminal=false
+Icon=/home/vijay/.config/wine-custom/word.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Exel
+Exec=/home/vijay/.config/wine-custom/exel.sh
+Comment=
+Terminal=false
+Icon=/home/vijay/.config/wine-custom/exel.png
+Type=Application
