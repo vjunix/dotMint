@@ -1,0 +1,13 @@
+{
+    "Group 1": [
+        {
+            "x": 1027,
+            "y": 10,
+            "height": 200,
+            "width": 330,
+            "color": "yellow",
+            "title": "Chezmoi",
+            "text": "add Files \nchezmoi add .bashrc\n\naplly settings from chezmoi\nchezmoi apply\n\nif edit orignal file\nchezmoi merge filename\n\ngit\nchezmoi cd\ngit add files\ngit commit -m \"initial commit\"\ngit push\n\ngit token"
+        }
+    ]
+}
